@@ -1,0 +1,6 @@
+@Bsket.API_HostAddress = http://localhost:5136
+
+GET {{Bsket.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
